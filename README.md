@@ -61,8 +61,8 @@ A candidate's application must follow the **general format** of these wireframed
   * [Material UI](https://mineral-ui.netlify.app/)
   * [Elastic UI](https://elastic.github.io/eui/#/)
 
-  > **Please note that Bootstrap is NOT a design system**
-  > **Candidate can incorporate the use of [Styled-components](https://styled-components.com/) or any other CSS in JS tool they maybe familiar with, to setup a design system.**
+  > **Please note that Bootstrap is NOT a design system** \
+  > **Candidate can incorporate the use of [Styled-components](https://styled-components.com/) or any other CSS in JS tool they maybe familiar with to setup a design system.**
 
 
 ### Back-end requirements
