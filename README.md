@@ -1,4 +1,4 @@
-# 
+# News Assignment
 
 Hello and welcome to _LocoNav_ Technical Test! Within this repo, you will find the technical assignment required for the completion of Frontend Engineering (Web) interviewing process.
 
