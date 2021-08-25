@@ -1,6 +1,6 @@
-# _The New Yorker_ Technical Test
+# 
 
-Hello and welcome to _The New Yorker_ Technical Test! Within this repo, you will find the technical assignment required for the completion of _The New Yorker_ Product Engineering (Web) interviewing process.
+Hello and welcome to _LocoNav_ Technical Test! Within this repo, you will find the technical assignment required for the completion of Frontend Engineering (Web) interviewing process.
 
 Before we begin, here are a few key points to keep in mind as you tackle this assignment and its requirements:
 ## Key Points
@@ -35,7 +35,7 @@ All candidates are asked to build a React app that:
 1. Renders a front-end client
 2. Has a back-end interface that interacts with the designated REST API -- NewsAPI (https://newsapi.org/)
 
-Your application's front-end client must be built on the foundation of the boilerplate app presented in this repo. Feel free to **add**, **remove**, and **modify** any files as needed. **Please refrain from implementing `create-react-app` or `create-next-app` in your project as it will NOT be viewed as an acceptable change.**
+Your application's front-end client must be built on the foundation of the boilerplate app presented in this repo. Feel free to **add**, **remove**, and **modify** any files as needed
 
 You must be sure to acquire a public API Key for your application's back-end interface so that your branch can be run locally.
 
@@ -91,4 +91,3 @@ Mid- to Senior-level candidates can also attempt to:
 Again, please adhere to the instructions provided and we look forward to reviewing your submissions.
 
 Happy coding!
-
