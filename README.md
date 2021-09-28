@@ -57,12 +57,10 @@ A candidate's application must follow the **general format** of these wireframed
 * Story items must render an image, header, and description
 * Story items must click through to the larger article
 * Must apply a **design system** to the application's UI. Candidates building a design system, will have an added advantage. This design system should have the ability to change the app's theme.
-* If not Candidates can use one (1) of the following design systems or any other design system they may be familiar with:
-  * [Material UI](https://mineral-ui.netlify.app/)
-  * [Elastic UI](https://elastic.github.io/eui/#/)
+* Making the page responsive will give the candidate an added advantage.
 
   > **Please note that Bootstrap is NOT a design system** \
-  > **Candidate can incorporate the use of [Styled-components](https://styled-components.com/) or any other CSS in JS tool they maybe familiar with to setup a design system.**
+  > **Candidate can incorporate the use of [Styled-components](https://styled-components.com/) or Sass or any other CSS in JS tool they maybe familiar with to setup a design system.**
 
 
 ### Back-end requirements
